@@ -128,6 +128,8 @@ Password: admin
 <img width="755" height="488" alt="image" src="https://github.com/user-attachments/assets/96f2d1a0-e4ce-4cd9-87ea-2972dc528a38" />
 <img width="755" height="541" alt="image" src="https://github.com/user-attachments/assets/35871631-33d3-4a9e-bc1a-b11618e34ea7" />
 <img width="755" height="565" alt="image" src="https://github.com/user-attachments/assets/dbbe509a-ef45-4cd6-aafa-4b6f11b2d70a" />
+<img width="755" height="561" alt="image" src="https://github.com/user-attachments/assets/f8bc872f-0727-4075-9b4a-336fccb96f9b" />
+<img width="755" height="539" alt="image" src="https://github.com/user-attachments/assets/5388fbe2-7552-45c8-b4b5-e9e720467380" />
 
 
 ### Salary Calculation
